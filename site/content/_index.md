@@ -24,9 +24,10 @@ products:
   - text: Testarea probei cu analizorul XRF.
     image: img/analizor-xrf.svg
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: Valori
+  text: Scopul nostru, prin aceasta pagină, este să educăm utilizatorii actuali și
+    viitori asupra tehnologiei cu XRF. Ne place să credem ca adevărata valoare a
+    metodei costă în aplicarea ei în mod corect în cât mai multe situații
+    posibile, înțelegerea limitărilor și mai ales adaptarea la specificul probei
+    pentru obținerea unor rezultate de încredere.
 ---
