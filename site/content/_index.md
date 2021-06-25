@@ -17,12 +17,12 @@ intro:
     precisă decât verificarea după cod sau catalog a catalizatorului. Pașii
     principali sunt:"
 products:
-  - image: img/illustrations-coffee.svg
+  - image: img/monolit-catalizator.svg
     text: Extragerea monolitului din catalizator.
-  - image: /img/illustrations-coffee-gear.svg
+  - image: img/pregatirea-probei.svg
     text: Pregătirea probei prin măcinare și sitare.
   - text: Testarea probei cu analizorul XRF.
-    image: img/illustrations-tutorials.svg
+    image: img/analizor-xrf.svg
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
