@@ -9,7 +9,7 @@ blurb:
     globală, cerințele de mediu pentru emisiile de noxe impun performanțe
     sporite ale catalizatorului auto, crescând deci prețul catalizatoarelor.
 intro:
-  heading: Analizorul de fluorescența de radiații X
+  heading: Analizorul de fluorescență de radiații X
   text: "... este unealta indispensabilă pentru o evaluare foarte rapidă a valorii
     adevărate și prețului, indicând exact ce conține un catalizator și în ce
     cantitate. Astfel verificarea cu analizorul stabilește care este prețul real
