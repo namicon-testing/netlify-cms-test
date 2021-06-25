@@ -30,4 +30,5 @@ values:
     metodei costă în aplicarea ei în mod corect în cât mai multe situații
     posibile, înțelegerea limitărilor și mai ales adaptarea la specificul probei
     pentru obținerea unor rezultate de încredere.
+  image: img/about-jumbotron.jpg
 ---
