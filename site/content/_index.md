@@ -1,31 +1,28 @@
 ---
 title: Fluorescența de radiații X
-subtitle: " "
+subtitle: "Catalizatorul afacerii tale de reciclat catalizatoare "
 image: img/hhxrf.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: De ce?
+  text: Numărul automobilelor fabricate și vândute la nivel mondial este în
+    continuă creștere. În același timp, datorită fenomenului de încălzire
+    globală, cerințele de mediu pentru emisiile de noxe impun performanțe
+    sporite ale catalizatorului auto, crescând deci prețul catalizatoarelor.
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: Analizorul de fluorescența de radiații X
+  text: "... este unealta indispensabilă pentru o evaluare foarte rapidă a valorii
+    adevărate și prețului, indicând exact ce conține un catalizator și în ce
+    cantitate. Astfel verificarea cu analizorul stabilește care este prețul real
+    pentru un catalizator utilizat în condiții de necunoscute, fiind mult mai
+    precisă decât verificarea după cod sau catalog a catalizatorului. Pașii
+    principali sunt:"
 products:
   - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+    text: Extragerea monolitului din catalizator.
   - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+    text: Pregătirea probei prin măcinare și sitare.
+  - text: Testarea probei cu analizorul XRF.
+    image: img/illustrations-tutorials.svg
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
