@@ -1,4 +1,5 @@
 baseurl = "/"
+DefaultContentLanguage = "en"
 languageCode = "ro-ro"
 languageLang = "ro"
 title = "XRF-PMI"
