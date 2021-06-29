@@ -1,7 +1,7 @@
 baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
-title = "Homepage"
+languageCode = "ro-ro"
+languageLang = "ro"
+title = "XRF-PMI"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
