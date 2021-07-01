@@ -1,1 +1,1 @@
-Name = "Articole"
+title = "Articole"
