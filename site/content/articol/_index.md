@@ -1,1 +1,3 @@
-title = "Articole"
+---
+title: Articole
+---
