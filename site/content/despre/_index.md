@@ -10,17 +10,17 @@ values:
       de la alții, să împărtășim cunoștințele.
     imageUrl: /img/about-shade-grown.jpg
   - heading: Experiența
-    text: >
-      În 2011 am luat contact cu fascinata lume a analizei chimice cu radiații
+    text: În 2011 am luat contact cu fascinata lume a analizei chimice cu radiații
       X. De atunci învățam, descoperim aplicații, testăm limitele metodelor.
       Este un proces continuu, mereu interesant, mereu nou.
     imageUrl: /img/about-single-origin.jpg
-  - heading: Sustainable farming
-    text: >
-      Sustainable agriculture is farming in sustainable ways based on an
-      understanding of ecosystem services, the study of relationships between
-      organisms and their environment. What grows where and how it is grown are
-      a matter of choice and careful consideration for nature and communities.
+  - heading: Aplicațiile
+    text: "... sunt multiple, cu un spectru larg. De la clasicele grupuri: aliaje,
+      geochimice, soluri, reciclarea catalizatorilor auto, aliaje de metale
+      prețioase, până la: picturi, manuscrise, sculpturi și de ce nu, produse de
+      larg consum, metoda XRF este o unealtă de bază în ceea ce privește analiza
+      chimică. Un lucru e cert, tipul probei dictează modul în care se folosește
+      metoda."
     imageUrl: /img/about-sustainable-farming.jpg
   - heading: Direct sourcing
     text: >
