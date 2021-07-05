@@ -19,7 +19,7 @@
 				<ul class="mb3">
 					<li><a href="/" class="link">Acasă</a></li>
 					<li><a href="/despre" class="link">Despre</a></li>
-					<li><a href="/blog" class="link">Blog</a></li>
+					<li><a href="/articol" class="link">Blog</a></li>
 					<li><a href="/contact" class="link">Contact</a></li>
 				</ul>
 			</div>
@@ -27,7 +27,9 @@
 			<div>
         <h3 class="f4 b lh-title mb1 primary">Descoperă</h3>
 				<ul class="mb3">
-					<li><a href="/post/jamaica-blue/" class="link">Ultimele articole</a></li>
+          {{ range first 1 (where .Pages "Section" "articol") }}
+          <li><a href="{{ .Permalink }}" class="link">Ultimul articol</a></li>
+          {{ end }}
 					<li><a href="/contact" class="link"></a></li>
 				</ul>
 			</div>
