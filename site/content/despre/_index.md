@@ -1,6 +1,6 @@
 ---
 title: Despre Noi
-image: img/img_9549.jpg
+image: img/hhxrf.jpg
 values:
   - heading: Elefantul din cameră
     text: >
@@ -8,7 +8,7 @@ values:
       echipamente de analiză chimică cu radiații X. Asta nu e important. Această
       pagină nu are un scop comercial, ci educativ. Scopul este să învățam unii
       de la alții, să împărtășim cunoștințele.
-    imageUrl: /img/about-shade-grown.jpg
+    imageUrl: img/safari-pinned-tab.svg
   - heading: Experiența
     text: În 2011 am luat contact cu fascinata lume a analizei chimice cu radiații
       X. De atunci învățam, descoperim aplicații, testăm limitele metodelor.
@@ -21,7 +21,7 @@ values:
       larg consum, metoda XRF este o unealtă de bază în ceea ce privește analiza
       chimică. Un lucru e cert, tipul probei dictează modul în care se folosește
       metoda."
-    imageUrl: /img/about-sustainable-farming.jpg
+    imageUrl: img/img_9549.jpg
   - heading: Direct sourcing
     text: >
       We want to truly empower the communities that bring amazing coffee to you.
