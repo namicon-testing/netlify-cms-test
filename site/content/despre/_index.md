@@ -1,6 +1,6 @@
 ---
 title: Despre Noi
-image: img/hhxrf-bw.jpg
+image: img/hhxrf.jpg
 values:
   - heading: Elefantul din cameră
     text: >
