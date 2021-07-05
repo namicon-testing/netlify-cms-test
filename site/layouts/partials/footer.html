@@ -27,7 +27,7 @@
 			<div>
         <h3 class="f4 b lh-title mb1 primary">Descoperă</h3>
 				<ul class="mb3">
-          {{ range last 1 (where .Pages "Section" "articol") }}
+          {{ range last 1 (where .Site.RegularPages "Section" "articol") }}
           <li><a href="{{ .Permalink }}" class="link">Ultimul articol</a></li>
           {{ end }}
 					<li><a href="/" class="link"></a></li>
