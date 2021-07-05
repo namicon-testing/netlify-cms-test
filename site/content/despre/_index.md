@@ -17,23 +17,23 @@ values:
   - heading: Aplicațiile
     text: "... sunt multiple, cu un spectru larg. De la clasicele grupuri: aliaje,
       geochimice, soluri, reciclarea catalizatorilor auto, aliaje de metale
-      prețioase, până la: picturi, manuscrise, sculpturi și de ce nu, produse de
-      larg consum, metoda XRF este o unealtă de bază în ceea ce privește analiza
-      chimică. Un lucru e cert, tipul probei dictează modul în care se folosește
-      metoda."
+      prețioase, până la: picturi, obiecte de patrimoniu chiar și produse de
+      larg consum, metoda XRF este o unealtă de bază de analiză chimică. Un
+      lucru e cert, tipul probei dictează modul în care se folosește
+      instrumentul."
     imageUrl: img/img_9549.jpg
-  - heading: Direct sourcing
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
+  - heading: Ce facem?
+    text: "Activitatea noastră cuprinde multe aspecte și îndeplinim mai multe
+      roluri. Suntem pe rând furnizor, consultant legal, specialist de produs și
+      de aplicație, nici segmentul IT nu scapă neatins. Pregătim personalul de
+      speicalitate pentru utilizarea în siguranță a echipamentelor. Optimizăm
+      modul de lucru cu tehnologia XRF. "
     imageUrl: /img/about-direct-sourcing.jpg
-  - heading: Reinvest profits
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
+  - heading: Ce urmărim?
+    text: Credem că XRF poate avea o răspândire mai mare, că poate fi soluția pentru
+      mai multe aplicații. Este important de știut că uneori e ușor să obții
+      rezultate irelevante, sau și mai rău, eronate. Calea către un rezultat
+      corect este mai lungă, vestea bună e că în ciuda complexității metodei, nu
+      e deloc dificilă.
     imageUrl: /img/about-reinvest-profits.jpg
 ---
