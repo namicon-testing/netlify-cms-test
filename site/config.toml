@@ -1,6 +1,5 @@
 baseurl = "/"
-languagecode = "ro"
-defaultcontentlanguage = "ro"
+languageCode = "ro"
 title = "XRFPMI"
 
 # RSS, categories and tags disabled for an easy start
