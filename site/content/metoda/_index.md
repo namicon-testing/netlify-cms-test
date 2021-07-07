@@ -88,7 +88,7 @@ pricing:
       plan: Custom
       price: "?"
 type: products
-image: /img/products-jumbotron.jpg
+image: img/sigmund-hkamqxarubo-unsplash.jpg
 description: Este o metodă prin care se poate determina compoziția chimică a
   unei probe la nivel de concentrație de elemente.
 ---
