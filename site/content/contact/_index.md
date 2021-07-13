@@ -3,7 +3,7 @@ title: Contact
 logo: img/xrf-pmi-logo.svg
 contact_entries: []
 ---
-Ne face mare plăcere sa aflăm părerile tale despre această pagină. Vrem să evoluăm și sa ne dezvoltăm constant și pentru asta avem nevoie de tine. Ideile și părerile tale sunt importante.
+Ne face plăcere sa aflăm părerea ta despre conținutul acestor pagini. Vrem să evoluăm și sa ne dezvoltăm constant. Pentru asta avem nevoie de tine. Ideile și părerile tale sunt importante.
 
 <h3 class="f4 b lh-title mb2">Cum pot să ajut…?</h3>
 
